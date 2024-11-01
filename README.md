@@ -9,7 +9,7 @@
 `src/berlin-mauerweg/data`
 #### Figures
 `src/berlin-mauerweg/figures`
-
+Interactive plotly figures are saved as .html so you can download, open in your browser of choice and interact with the figures.
 
 # WHY?
 I wanted to walk the length of the Berlin wall, but given that it is 155km I would have to walk through the night. 
